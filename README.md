@@ -1,4 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
+##NAME:R SAKETRAM
+##REGISTER NUMBER:212223230181
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
